@@ -31,6 +31,7 @@
 * Qiskit Pulse: What's the relationship between channels and qubits? (I.e. many-to-one or many-to-many?)
 * Measurement proceed seems quite nontrivial - how much do I need to know?
 * What is a "Drag" pulse (as defined in Qiskit) and is it useful? Why or why not?
+* What is a "native gate set" of a machine?
 
 ## Ideas
 
