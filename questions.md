@@ -1,14 +1,6 @@
-# My Questions about Quantum Hardware Readings
+# Questions
 
-## Hardware design?
-
-* What's the difference between verilog vs VHDL vs SystemVerilog?
-* Is Kami just verifiable Bluespec, or are there any differences I should be more "careful" about?
-* Is high-level synthesis worth looking into?
-* How to use cocotb, and do I care?
-* Where do OpenPulse and Qiskit Pulse fit into the picture, comparing to QICK and Qubic?
-
-## Physics behind qubits?
+## Physics Behind Qubits
 
 * What is a pulse? Is it modelled as photons, wave, or both? What is in a pulse? Frequency? Phase? Polarization?
 * How do you go from a gate to a pulse sequence (say, for CNOT)?
@@ -36,3 +28,11 @@
 * What is the cross resonance gate?
 * What is error-prone enough that it'll help to have formally verified?
 * What is GRAPE, and do we care?
+
+## Hardware Design
+
+* What's the difference between verilog vs VHDL vs SystemVerilog?
+* Is Kami just verifiable Bluespec, or are there any differences I should be more "careful" about?
+* Is high-level synthesis worth looking into?
+* How to use cocotb, and do I care?
+* Where do OpenPulse and Qiskit Pulse fit into the picture, comparing to QICK and Qubic?
