@@ -21,7 +21,7 @@
 * What is a "carrier signal"?
 * What is the "frequency resonance" between a pulse and a qubit?
 * How would you *physically* set a phase? That's not just a photon polarizer, is it? Do I care, or should I treat it as black-box/"magic"?
-* How precise does the timing have to be? Is relativistic effects considered here? Is synchronizing different qubits "easy"?
+* How precise does the timing have to be? Is synchronizing different qubits "easy"? Are relativistic effects considered here?
 * Qiskit Pulse: What's the relationship between channels and qubits? (I.e. many-to-one or many-to-many?)
 * What is a "Drag" pulse (as defined in Qiskit) and is it useful? Why or why not?
 * What is the typical "native gate set" of a machine?
