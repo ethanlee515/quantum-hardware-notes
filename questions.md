@@ -35,6 +35,7 @@
 * How deep is the math behind quantum process tomography? Do I want to know it?
 * What is Lindblad's equation? (I feel like this is something I should know...)
 * What's the difference between open-loop and closed-loop calibration? How does this connect to quantum error mitigation algorithms?
+* How does [QUASAR](https://arxiv.org/abs/1909.11719) (quantum extension of RISC-V?) relate to all these?
 
 ## Hardware Design
 
