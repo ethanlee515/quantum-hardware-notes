@@ -1,6 +1,6 @@
 # Questions
 
-* Why are there so many projects that seemingly do similar tasks: QICK, QubiC, Qiskit Pulse...?
+* Why are there so many projects that seemingly do similar tasks: QICK, QubiC, [ICARUS-Q](https://arxiv.org/abs/2112.02933), Qiskit Pulse...?
 
 ## Physics Behind Qubits
 
