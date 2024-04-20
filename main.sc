@@ -17,7 +17,7 @@ class SecondDerived(val message: String) extends Base {
 def construct_and_use(
     T : Class[_ <: Base] = classOf[FirstDerived],
     m : String = "test") = {
-  val ctor = T.getConstructor(Array(classOf[String]) : _*)
+  val ctor = T.getConstructor(classOf[String])
   val inst = ctor.newInstance("hello world")
   inst.f()
 }
